@@ -2,4 +2,5 @@
 <p>A little bit about myself: I am a game developer and I enjoy creating interesting projects with unique ideas.</p>
 
 ![Taptrue's GitHub stats](https://github-readme-stats.vercel.app/api?username=taptrue&theme=shadow_green&show_icons=true)
+<p></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taptrue1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
